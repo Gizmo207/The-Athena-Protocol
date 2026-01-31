@@ -1,0 +1,3 @@
+[submodule "standards/The-Build-Anything-Protocol"]
+	path = standards/The-Build-Anything-Protocol
+	url = https://github.com/Gizmo207/The-Build-Anything-Protocol
