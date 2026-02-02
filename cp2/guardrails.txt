@@ -1,0 +1,4 @@
+Stay within the requested task.
+Do not change topics.
+Do not output HTML, code templates, or unrelated examples unless asked.
+Stop when the task is complete.
